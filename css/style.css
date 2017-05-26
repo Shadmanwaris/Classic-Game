@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.canvas-width {
+    width: 505px;
+    margin: 0 auto;
+}
+
+.lives {
+    text-align: left;
+    display: inline-block;
+    width: 49%;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.score {
+    text-align: right;
+    width: 50%;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 70px;
+
+}
